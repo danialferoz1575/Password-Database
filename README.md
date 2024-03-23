@@ -1,0 +1,1 @@
+Confused of multiple passwords for multiple websites? Here is a small python project made by me, Its an password storing database application that can store your multiple passwords for different websites on your local system.Apart from the python code, there is also another file along with it which creates a desktop shortcut of the application code.
